@@ -1,9 +1,14 @@
 language: python
 python:
-  - "3.6"
-# command to install dependencies
-#install:
-#  - pip install -r requirements.txt
-# command to run tests
+- '3.6'
 script:
-  - printenv
+- printenv
+env:
+  global:
+    - GH_USER_NAME: "travis"
+    - GH_USER_EMAIL: nhsbsa.travis-ci@nhs.net
+    - GH_REF: github.com/itchyknee/mkdocs-test.git 
+    - secure: pdRs1akPnw4CtVA9VwCN58tjMgmsfrFYQ3DG648BboBLGSs47z9uEOo4inorzfCoh6EDSO/L7bsbUWW/IKwDIElC3fLovBMak0YvRlnYqQWPf+uEZ7fP1l6RhyTYhLamxCjrKTGd0p09YhEdBpj1jWDeZFq7U/GPyt66wRinnfXP9WFMePW55eT2lbj8YlNz93z3pCAiuwtrvCpXLk5mr4Ze7TVrhT6VsL+hPtRQi14nHVK8EC0pF1G1vLJwSwXxFlJmMyjSvedY9MQxZH7jNcRcApKHfyrV07Q/IfyvDRDDQK+NOXzbrU795YSL50D/7YI5ZOZs+W18ieVkMXwujJlVK6q7c1L1z0ieUT9/qHm7olrmslhz8KlAastMqV9vkqFT808XiYl52WsLBQniXgsolSbR4smYRBHQwkoLU7x65/QG2G03MUpj8/foVoDRF29jmL+AarGTOBIL1MafYwmPXm6tt9S+pReLD5nDEiWo2Nr5Rd3PLXYBlctbOtQ3J8xojorVraiTk0K7kGGoHSe+Jnh2+CcrYN4OIZO+KDDJ2iMqh+QMDKf3ooZO4magRU7z44rUtI1UDEpNiXnvjFJ+PZ8m0dDrGePshEYgWMUn1Qq7hQG8xPt60eCDKSD1iyEmtykASaG2WtS7emaFCsdkTyqFQ648MXGdVwPACJY=
+script:
+  - pip install --user mkdocs
+
