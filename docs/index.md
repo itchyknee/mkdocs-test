@@ -1,6 +1,6 @@
 # Playbook
 
-# **About us**
+## About us
 
 **C**ollaborative
 
@@ -21,22 +21,22 @@ This is our playbook. It’s a guide to how we design user-centred services at t
 It does not replace the [Government Service Manual](https://www.gov.uk/service-manual), it is meant to add to, support and clarify how we use standards within the NHSBSA.
 
 
-## “Digital mission statement”- what is our shared goal as a department?
+### “Digital mission statement”- what is our shared goal as a department?
 
 
 
 *   [Values](https://docs.google.com/document/d/1Q9ezuegwHxNGRPgOF3zFmVEFDdLxaCp2S9XYlz-mLp4/edit?usp=sharing)
 
 
-# Ways of working
+## Ways of working
 
 
-## Principles
+### Principles
 
 All of our services should meet the [Service Standard,](https://www.gov.uk/service-manual/service-standard) whether or not the service goes to GDS assessment. This is a key feature of building the **right thing**.
 
 
-## User-Centred Agile ways of working
+### User-Centred Agile ways of working
 
 All our services should be design-led. We use user research to understand our users’ problems, validate assumptions about our services, and iterate our designs using prototypes to address users needs.
 
@@ -52,7 +52,7 @@ We then use user stories to help communicate the user needs to the wider team, a
 Just because a project goes live, doesn’t mean the service stops being researched, iterat
 
 
-## Designing
+### Designing
 
 Our human-centered design process is grounded in the principles of Design Thinking. It's the driving force behind our projects and teams. Designers keep this process alive by helping our teams understand user problems and needs. Together, we collaboratively and continuously ideate, build, and learn.
 
@@ -67,7 +67,7 @@ Our human-centered design process is grounded in the principles of Design Thinki
 *   What is visual design?
 
 
-## Prototyping
+### Prototyping
 
 
 
@@ -77,7 +77,7 @@ Our human-centered design process is grounded in the principles of Design Thinki
 *   Where do they lines between prototyping end and production start
 
 
-## Research
+### Research
 
 Anyone conducting research interviews, even with NHSBSA colleagues, need to get complete ethics training and gain consent before starting
 
@@ -88,7 +88,7 @@ Anyone conducting research interviews, even with NHSBSA colleagues, need to get 
 *   Safeguarding participant data and GDPR
 
 
-## Planning
+### Planning
 
 One of our primary process goals is to make frequent, small releases of our working software. We do through frequent communication and regular iterations on a service.
 
@@ -102,7 +102,7 @@ One of our primary process goals is to make frequent, small releases of our work
 *   Meet weekly to discuss successes, failures, and future plans
 
 
-## **Choose Platforms**
+### Choose Platforms
 
 Early in a project, we have to decide which platforms we'll use. Which platform depends on our ideas for solving these users' problems. After considering what's best for users, the best tools for us have a strong community, make us happy, and help us create and iterate quickly.
 
@@ -111,10 +111,10 @@ Early in a project, we have to decide which platforms we'll use. Which platform 
 *   Browser Testing and Support
 
 
-## **Laptop Setup (coming soon)**
+### Laptop Setup (coming soon)
 
 
-## **Developing**
+### Developing
 
 Our development practices are evolving, drawing inspiration from agile, human centred and clean coding techniques, first detailed in Kent Beck's classic[ Extreme Programming Explained: Embrace Change](https://www.amazon.co.uk/dp/0321278658), Gerald Weinberg's[ The Psychology of Computer Programming](https://www.amazon.co.uk/dp/0932633420) and [Robert Martin’s Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.co.uk/dp/0132350882).
 
@@ -145,7 +145,7 @@ Our development practices are evolving, drawing inspiration from agile, human ce
 *   Style guide
 
 
-## **Production**
+### Production
 
 We live in a magical modern era where many problems have already been solved for us. We focus on the core product as much as possible and outsource operations as much as possible to external services.
 
@@ -164,13 +164,13 @@ We live in a magical modern era where many problems have already been solved for
 *   KPI’s
 
 
-## Testing
+### Testing
 
 
-## Acceptance Tests
+### Acceptance Tests
 
 
-## **Measuring**
+### Measuring
 
 The difficult part of measuring is deciding what to track. Dave McClure's[ AARRR framework](https://tbot.io/metrics-for-pirates) provides a high-level overview of important metrics. We then use tactics such as event tracking to instrument those metrics.
 
@@ -183,20 +183,20 @@ The difficult part of measuring is deciding what to track. Dave McClure's[ AARRR
 *   Subscription Metrics
 
 
-## A list of our services
+### A list of our services
 
 
-# Security
+## Security
 
 Best practices….
 
 
-# Communication
+## Communication
 
 TODO
 
 
-# Communities of practice
+## Communities of practice
 
 Our communities of practice are important because….
 
@@ -208,15 +208,15 @@ Our communities of practice are important because….
 *   Test
 
 
-# GDS assessments
+## GDS assessments
 
 
-# Growing our talent
+## Growing our talent
 
 We want Digital, Insight and Technology to be an exciting, supportive environment to work in.
 
 
-# About this document
+## About this document
 
 It is a living document that everyone at the NHSBSA can edit.
 
