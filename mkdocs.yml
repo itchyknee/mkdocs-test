@@ -1,2 +1,7 @@
 site_name: NHS BSA Digital
 theme: cinder
+nav:
+    - Home:
+        - index.md
+        - developing.md
+    - About: about.md
