@@ -20,6 +20,7 @@ We use [Maven](https://maven.apache.org/) as our build tool.
 We document our code with a README at the top level of the code repository.
 
 We follow 'Clean Code' rules for comments:
+
 1. Always try to explain yourself in code.
 1. Don't be redundant.
 1. Don't add obvious noise. This includes 'bugfix #' comments
@@ -42,12 +43,13 @@ We strongly encourage Test Driven Development, but it is not enforced. Try it, y
 We perform Continuous Integration builds on every push to a _feature_ branch.
 
 A CI build will:
+
 * Compile
-* Unit Test
-* Integration Test
+* Unit Test (Maven Surefire)
+* Integration Test (Maven Failsafe)
 * Enforce automated code quality rules
 
-We use Gitlab-CI for our build pipeline.
+We use Gitlab-CI for our build pipeline. This allows us to run downstream dependencies such as a database in a Docker container.
 
 ## Automated code quality checks
 
