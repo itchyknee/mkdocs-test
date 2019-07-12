@@ -102,19 +102,7 @@ TODO
 
 Our development practices are evolving, drawing inspiration from agile, human centred and clean coding techniques, first detailed in Kent Beck's classic[ Extreme Programming Explained: Embrace Change](https://www.amazon.co.uk/dp/0321278658), Gerald Weinberg's[ The Psychology of Computer Programming](https://www.amazon.co.uk/dp/0932633420) and [Robert Martin's Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.co.uk/dp/0132350882).
 
-*   Source control
-*   Development environment
-*   Technology choice
-*   Test Driven Development
-*   Pair programming
-*   Clean code
-*   Continuous Integration
-*   Automated code quality checks
-*   Code reviews
-*   Refactoring
-*   Style guide
-
-Read more about [developing in the BSA](developing.md)
+**Read more about [developing in the BSA](developing.md)**
 
 ### Testing
 
