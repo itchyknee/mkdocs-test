@@ -3,5 +3,7 @@ theme: cinder
 nav:
     - Home:
         - index.md
+        - values.md
+        - design.md
         - developing.md
     - About: about.md
