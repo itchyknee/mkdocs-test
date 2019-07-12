@@ -27,7 +27,7 @@ It does not replace the [Government Service Manual](https://www.gov.uk/service-m
 *   [Values](values.md)
 
 
-## Ways of working (coming soon)
+## Ways of working
 
 
 ### Principles
@@ -94,13 +94,14 @@ Early in a project, we have to decide which platforms we'll use. Which platform 
 
 *   Browser Testing and Support
 
-### Laptop Setup (coming soon)
+### Laptop Setup
+
+TODO
 
 ### Developing
 
 Our development practices are evolving, drawing inspiration from agile, human centred and clean coding techniques, first detailed in Kent Beck's classic[ Extreme Programming Explained: Embrace Change](https://www.amazon.co.uk/dp/0321278658), Gerald Weinberg's[ The Psychology of Computer Programming](https://www.amazon.co.uk/dp/0932633420) and [Robert Martin's Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.co.uk/dp/0132350882).
 
-*   Acceptance Tests
 *   Source control
 *   Development environment
 *   Technology choice
@@ -114,6 +115,10 @@ Our development practices are evolving, drawing inspiration from agile, human ce
 *   Style guide
 
 Read more about [developing in the BSA](developing.md)
+
+### Testing
+
+TODO
 
 ### Production
 
@@ -131,12 +136,6 @@ We live in a magical modern era where many problems have already been solved for
 *   Transactional Email
 *   KPI's
 
-### Testing
-
-
-### Acceptance Tests (coming soon)
-
-
 ### Measuring
 
 The difficult part of measuring is deciding what to track. Dave McClure's[ AARRR framework](https://tbot.io/metrics-for-pirates) provides a high-level overview of important metrics. We then use tactics such as event tracking to instrument those metrics.
@@ -148,14 +147,17 @@ The difficult part of measuring is deciding what to track. Dave McClure's[ AARRR
 *   Subscription Metrics
 
 
-### A list of our services (coming soon)
+### A list of our services
 
+TODO
 
 ## Security
 
 Best practices….
 
-## Communication (coming soon)
+## Communication
+
+TODO
 
 ## Communities of practice
 
@@ -166,8 +168,9 @@ Our communities of practice are important because….
 *   Development
 *   Test
 
-## GDS assessments (coming soon)
+## GDS assessments
 
+TODO
 
 ## Growing our talent
 
