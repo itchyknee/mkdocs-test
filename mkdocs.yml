@@ -1,5 +1,10 @@
 site_name: NHS BSA Digital
 theme: cinder
+theme:
+    name: cinder
+    custom_dir: cinder-theme-ext
+extra_css:
+    - css/extra.css
 nav:
     - Home:
         - index.md
